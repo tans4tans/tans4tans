@@ -1,6 +1,6 @@
 - 👋 Hi, I’m tatian
-- 👀 I’m interested in new technologies, video games, LARPing, miniature painting and crafting stuff
-- 🤖 I’m now working as a RPA-developer, making other people's work easier via robotization.
+- 🤖 I’m now working as a RPA-developer, making other people's work easier via robotization
+- 👀 I’m interested in video games, LARPing, miniature painting and crafting stuff
 - 📫 You can contact me via telegram @tans4tans
 
 <!---
